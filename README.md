@@ -116,6 +116,7 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
 - React: Nested Routes
 - React: API-calls med Fetch
 ### Föreläsning 12
+#### React
 - Autentisering
 - Cookies (Set-Cookie)
 - Session-baserad inloggning
@@ -132,4 +133,51 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
 - Recoil: Dela state mellan komponenter
 - Recoil: useRecoilState m.fl.
 - Recoil: Exempel: Todo-listan i Recoil
- <img width="700" height="400" src="https://raw.githubusercontent.com/yoonikuu/javascript-library-topics-covered/main/assets/recoil1.png">
+- Recoil: RecoilRoot 
+- En enkel store
+- Övning - Token store
+- XSS (Cross-site Scripting)
+
+## Vecka 5
+### Föreläsning 15
+- Vite
+- Vue (ramverk)
+- Kunskapskontroll 2
+- Övning: Vue Tutorial -> https://vuejs.org/tutorial/#step-1
+- 
+Länkar:
+- https://vitejs.dev
+- https://vuejs.org/
+- https://learnvue.co/
+
+## Vecka 6
+### Föreläsning 16
+#### React
+- Hooks
+- Custom hooks
+- Custom Hook: useApi
+- Custom Hook: useTodos - i en komponent
+- useTodos - som en Custom Hook
+- Custom Hook: useTodos
+- Custom Hook: useTodos - med Api-anrop
+- Custom Hook: useDate
+- External Hooks
+
+Länkar:
+- https://reactjs.org/docs/hooks-rules.html
+- https://github.com/rehooks/awesome-react-hooks
+
+### Föreäsning 17
+#### React
+- Memoization/Memo
+- useMemo
+- useCallback
+- useRef
+- useReducer
+- Övrigt prestanda: Key, HOC
+-
+Länkar: 
+- https://react-hooks-cheatsheet.com/
+- https://reactjs.org/docs/hooks-reference.html
+- https://dmitripavlutin.com/use-react-memo-wisely/
+- https://dev.to/brayanarrieta/when-to-usecallback-and-usememo-in-our-react-projects-199j
