@@ -9,7 +9,7 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 – Komponenter
 - Skapa komponenter
 – Klasskomponenter
-- .createElement
+- createElement
 – JSX
 - Ladda in
 - ReactDOM
