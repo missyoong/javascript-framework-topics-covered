@@ -1,9 +1,7 @@
 # Topics covered
 
 ## Vecka 1
-
 ### Föreläsning 1
-
 - Vad är ett javascript ramverk?
 #### React 
 - Vad är React?
@@ -23,7 +21,6 @@
 - setState 
 - Vad händer vid setState? 
 - Övning - setState och props 
-
 - Formulär-element 
 - Övning - Controlled Form -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/31-jan/exercises
 - Rendera listor 
@@ -45,9 +42,7 @@
 - props.children 
 - Livscykel-metoder 
 - Funktions-komponenter 
-
 - Övningar:  
-
 - Rekommenderad ordning:  
 1. create-react-app  
 2. Controlled-form (igen!)  
