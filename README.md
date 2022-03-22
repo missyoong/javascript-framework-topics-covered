@@ -5,9 +5,9 @@
 ### Föreläsning 1
 
 - Vad är ett javascript ramverk?
+- #### React 
 - Vad är React?
-- React – Komponenter
-#### React 
+– Komponenter
 - Skapa komponenter
 – Klasskomponenter
 - .createElement
@@ -37,6 +37,7 @@
 ### Föreläsning 2: 
 
 - Recap från föreläsning 1 
+- #### React
 - JSX 
 - create-react-app 
 - Conditional rendering 
@@ -55,7 +56,7 @@
 
 ### Föreläsning 3: 
 
-#### React
+- #### React
 - Komponenter 
 - render( ) 
 - Övning: Komponenter -> week-1/4-feb/exercises/split-up-to-components  -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/4-feb
@@ -64,7 +65,7 @@
 ## Vecka 2:  
 
 ### Föreläsning 4: 
-#### React 
+- #### React 
 - Styling 
 - Organisera komponenter 
 - Parent/child 
