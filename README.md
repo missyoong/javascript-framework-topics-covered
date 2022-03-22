@@ -72,7 +72,6 @@
 - Återanvändbara komponenter 
 - Vad är props? 
 - Övning: props 
- 
 - Fördefinierade props 
 - Javascript inuti JSX 
 - renderar Arrays 
