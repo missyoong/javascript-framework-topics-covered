@@ -32,8 +32,6 @@
  
 
 ### Föreläsning 2: 
-
-- Recap från föreläsning 1 
 #### React
 - JSX 
 - create-react-app 
@@ -74,7 +72,6 @@
 - Dagens labb: Nyhetssida -> week-2/exercises/  https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2
 
 ### Föreläsning 5: 
-Recap från Mån 7 feb 
 - Tillståndshantering med State & hur funkar det?
 - State vs Props 
 - useState 
