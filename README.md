@@ -13,7 +13,7 @@
 - React – JSX
 - React - Ladda in
 - React - ReactDOM
-- Övning - Hello World i React
+- Övning - Hello World i React -> https://github.com/cme-osuka/javascript-ramverk/blob/main/week-1/31-jan/exercises/HelloWorld.html
 - React - Props
 - React - Speciella props
 - React - Styling och HTML-klasser 
@@ -24,7 +24,7 @@
 - Övning - setState och props 
 
 - React - Formulär-element 
-- Övning - Controlled Form 
+- Övning - Controlled Form -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/31-jan/exercises
 - React - Rendera listor 
 - React - Rendera listor 
 - React - Listor, “Key” 
