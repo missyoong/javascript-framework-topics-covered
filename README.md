@@ -8,9 +8,9 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 - Vad är React?
 – Komponenter
 - Skapa komponenter
-– Klasskomponenter
+- Klasskomponenter
 - createElement
-– JSX
+- JSX
 - Ladda in
 - ReactDOM
 - Övning - Hello World i React -> https://github.com/cme-osuka/javascript-ramverk/blob/main/week-1/31-jan/exercises/HelloWorld.html
