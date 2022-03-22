@@ -112,3 +112,24 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
 - Övning: React Helmet Async
 - Parametrar i routes
 - Övning: Routing med parametrar
+- React: Redirect
+- React: Nested Routes
+- React: API-calls med Fetch
+### Föreläsning 12
+- Autentisering
+- Cookies (Set-Cookie)
+- Session-baserad inloggning
+- Token-baserad inloggning
+- Skicka headers med Fetch
+- Hämta en token
+- Övning - Inloggning med React
+- XSS (Cross-site Scripting)
+- Store
+- Bibliotek för store
+- State-bibliotek: Recoil
+- Recoil: Atoms 
+- Recoil: Uppdatera en Atom
+- Recoil: Dela state mellan komponenter
+- Recoil: useRecoilState m.fl.
+- Recoil: Exempel: Todo-listan i Recoil
+ <img width="700" height="400" src="https://raw.githubusercontent.com/yoonikuu/javascript-library-topics-covered/main/assets/recoil1.png">
