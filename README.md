@@ -28,9 +28,6 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 - Rendera listor 
 - Listor, “Key” 
 - Övning - Filtrerad lista 
- 
-
- 
 
 ### Föreläsning 2: 
 #### React
@@ -46,15 +43,15 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 1. create-react-app  
 2. Controlled-form (igen!)  
 
- 
-
 ### Föreläsning 3: 
 #### React
 - Komponenter 
 - render( ) 
 - Övning: Komponenter -> week-1/4-feb/exercises/split-up-to-components  -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/4-feb
  
-
+ Länkar: 
+ - https://reactjs.org/docs/getting-started.html
+ 
 ## Vecka 2:  
 https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2
 ### Föreläsning 4: 
@@ -139,6 +136,7 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
 - XSS (Cross-site Scripting)
 
 ## Vecka 5
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-5
 ### Föreläsning 15
 - Vite
 - Vue (ramverk)
@@ -151,6 +149,7 @@ Länkar:
 - https://learnvue.co/
 
 ## Vecka 6
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-6
 ### Föreläsning 16
 #### React
 - Hooks
@@ -175,9 +174,40 @@ Länkar:
 - useRef
 - useReducer
 - Övrigt prestanda: Key, HOC
--
+
 Länkar: 
 - https://react-hooks-cheatsheet.com/
 - https://reactjs.org/docs/hooks-reference.html
 - https://dmitripavlutin.com/use-react-memo-wisely/
 - https://dev.to/brayanarrieta/when-to-usecallback-and-usememo-in-our-react-projects-199j
+
+### Föreläsning 18
+#### CSS I React 
+- CSS Modules
+- CSS-in-JS: 
+ - Styled Components
+ - Emotion
+- Övning: Styled Components
+- Utility-first CSS: Tailwind CSS 
+#### Komponent / UI-bibliotek
+- MUI (kom igång https://mui.com/getting-started/installation/)
+- Chakra UI (kom igång https://chakra-ui.com/guides/getting-started/cra-guide)
+#### Page Transitions/Animationer med React Transition Group och React Router
+- react-transition-group
+- Övning: Dialogruta
+- Övning - Lista på personer
+
+Länkar: 
+- https://github.com/css-modules/css-modules
+- https://www.javascriptstuff.com/css-modules-by-example/
+- https://styled-components.com/
+- https://styled-components.com/docs/
+- https://styled-components.com/docs/basics#coming-from-css
+- https://emotion.sh/docs/introduction
+- https://tailwindcss.com/docs/installation
+- https://javascript.plainenglish.io/set-up-your-environment-for-vite-react-and-tailwind-css-1cac0e3fbf96
+- https://javascript.plainenglish.io/set-up-your-environment-for-vite-react-and-tailwind-css-1cac0e3fbf96
+- https://mui.com/getting-started/installation/
+- https://reactcommunity.org/react-transition-group/
+- https://reactcommunity.org/react-transition-group/transition/
+- https://chakra-ui.com/guides/getting-started/cra-guide
