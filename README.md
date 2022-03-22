@@ -141,7 +141,7 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-5
 - Vue (ramverk)
 - Kunskapskontroll 2
 - Övning: Vue Tutorial -> https://vuejs.org/tutorial/#step-1
-- 
+
 Länkar:
 - https://vitejs.dev
 - https://vuejs.org/
