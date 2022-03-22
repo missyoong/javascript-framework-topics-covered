@@ -37,7 +37,6 @@
 ### Föreläsning 2: 
 
 - Recap från föreläsning 1 
-
 - JSX 
 - create-react-app 
 - Conditional rendering 
@@ -56,8 +55,9 @@
 
 ### Föreläsning 3: 
 
-- React - Komponenter 
-- React - render( ) 
+#### React
+- Komponenter 
+- render( ) 
 - Övning: Komponenter -> week-1/4-feb/exercises/split-up-to-components  -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/4-feb
  
 
@@ -72,9 +72,9 @@
 - Vad är props? 
 - Övning: props 
  
-- React - Fördefinierade props 
-- React - Javascript inuti JSX 
-- React - React renderar Arrays 
-- React - Array.prototype.map() 
+- Fördefinierade props 
+- Javascript inuti JSX 
+- renderar Arrays 
+- Array.prototype.map() 
 - Dagens labb: Nyhetssida -> week-2/exercises/  https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2
  
