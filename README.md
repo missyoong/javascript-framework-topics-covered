@@ -25,7 +25,6 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 - Formulär-element 
 - Övning - Controlled Form -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/31-jan/exercises
 - Rendera listor 
-- Rendera listor 
 - Listor, “Key” 
 - Övning - Filtrerad lista 
 
