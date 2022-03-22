@@ -101,13 +101,14 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
 ### Föreläsning 11
 #### React
 - Routing
-- <Router> komponenten
+- Router komponenten
 - React Router
-- <Routes> komponenten
-- <Route> komponenten
-- <Link> komponenten
+- Routes komponenten
+- Route komponenten
+- Link komponenten
 - Övning - React router
 - React Helmet 
 - React Helmet Async
 - Övning: React Helmet Async
 - Parametrar i routes
+- Övning: Routing med parametrar
