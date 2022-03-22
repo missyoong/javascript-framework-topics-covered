@@ -7,27 +7,28 @@
 - Vad är ett javascript ramverk?
 - Vad är React?
 - React – Komponenter
-- React - Skapa komponenter
-- React – Klasskomponenter
-- React.createElement
-- React – JSX
-- React - Ladda in
-- React - ReactDOM
+#### React 
+- Skapa komponenter
+– Klasskomponenter
+- .createElement
+– JSX
+- Ladda in
+- ReactDOM
 - Övning - Hello World i React -> https://github.com/cme-osuka/javascript-ramverk/blob/main/week-1/31-jan/exercises/HelloWorld.html
-- React - Props
-- React - Speciella props
-- React - Styling och HTML-klasser 
-- React - DOM-events 
-- React - State 
-- React - setState 
-- React - Vad händer vid setState? 
+- Props
+- Speciella props
+- Styling och HTML-klasser 
+- DOM-events 
+- State 
+- setState 
+- Vad händer vid setState? 
 - Övning - setState och props 
 
-- React - Formulär-element 
+- Formulär-element 
 - Övning - Controlled Form -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/31-jan/exercises
-- React - Rendera listor 
-- React - Rendera listor 
-- React - Listor, “Key” 
+- Rendera listor 
+- Rendera listor 
+- Listor, “Key” 
 - Övning - Filtrerad lista 
  
 
@@ -63,11 +64,12 @@
 ## Vecka 2:  
 
 ### Föreläsning 4: 
-- React - Styling 
-- React - Organisera komponenter 
-- React - Parent/child 
-- React - Återanvändbara komponenter 
-- React - Vad är props? 
+#### React 
+- Styling 
+- Organisera komponenter 
+- Parent/child 
+- Återanvändbara komponenter 
+- Vad är props? 
 - Övning: props 
  
 - React - Fördefinierade props 
