@@ -72,4 +72,15 @@
 - renderar Arrays 
 - Array.prototype.map() 
 - Dagens labb: Nyhetssida -> week-2/exercises/  https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2
- 
+
+### Föreläsning 5: 
+Recap från Mån 7 feb 
+- Tillståndshantering med State & hur funkar det?
+- State vs Props 
+- useState 
+- Övning: useState -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2/9-feb/exercises/state-exercises- 
+- Komplexare states: Arrays, objekt 
+- Ternaries 
+- Övning: Ternaries - > https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2/9-feb/exercises/state-exercises
+- Övning/Codealong: Activity tracker -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2/9-feb/exercises/activity-tracker
+- Bonus: Deploy till Github pages
