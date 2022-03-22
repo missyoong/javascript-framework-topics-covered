@@ -1,6 +1,7 @@
 # Topics covered
 
-## Vecka 1
+## Vecka 1 
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 ### Föreläsning 1
 - Vad är ett javascript ramverk?
 #### React 
@@ -48,7 +49,6 @@
  
 
 ### Föreläsning 3: 
-
 #### React
 - Komponenter 
 - render( ) 
@@ -56,7 +56,7 @@
  
 
 ## Vecka 2:  
-
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2
 ### Föreläsning 4: 
 #### React 
 - Styling 
@@ -81,3 +81,33 @@
 - Övning: Ternaries - > https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2/9-feb/exercises/state-exercises
 - Övning/Codealong: Activity tracker -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2/9-feb/exercises/activity-tracker
 - Bonus: Deploy till Github pages
+
+### Föreläsning 6:
+- Recap från Ons 9 feb
+- Codealong: Activity tracker
+
+## Vecka 3
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-3
+### Föreläsning 7
+- Livscykel-metoden useEffect 
+- useEffect & useLayoutEffect
+
+### Föreläsning 8
+- React recap
+- En första titt på Vue och verktyget Vite 
+
+## Vecka 4
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
+### Föreläsning 11
+#### React
+- Routing
+- <Router> komponenten
+- React Router
+- <Routes> komponenten
+- <Route> komponenten
+- <Link> komponenten
+- Övning - React router
+- React Helmet 
+- React Helmet Async
+- Övning: React Helmet Async
+- Parametrar i routes
