@@ -57,7 +57,7 @@
 
 - React - Komponenter 
 - React - render( ) 
-- Övning: Komponenter -> week-1/4-feb/exercises/split-up-to-components  
+- Övning: Komponenter -> week-1/4-feb/exercises/split-up-to-components  -> https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1/4-feb
  
 
 ## Vecka 2:  
@@ -74,5 +74,5 @@
 - React - Javascript inuti JSX 
 - React - React renderar Arrays 
 - React - Array.prototype.map() 
-- Dagens labb: Nyhetssida -> week-2/exercises/  
+- Dagens labb: Nyhetssida -> week-2/exercises/  https://github.com/cme-osuka/javascript-ramverk/tree/main/week-2
  
