@@ -38,8 +38,7 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 - props.children 
 - Livscykel-metoder 
 - Funktions-komponenter 
-- Övningar:  
-- Rekommenderad ordning:  
+- Övningar: Rekommenderad ordning:  
 1. create-react-app  
 2. Controlled-form (igen!)  
 
@@ -125,12 +124,12 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-4
 - Store
 - Bibliotek för store
 - State-bibliotek: Recoil
-- Recoil: Atoms 
-- Recoil: Uppdatera en Atom
-- Recoil: Dela state mellan komponenter
-- Recoil: useRecoilState m.fl.
-- Recoil: Exempel: Todo-listan i Recoil
-- Recoil: RecoilRoot 
+- Recoil Atoms 
+- Recoil Uppdatera en Atom
+- Recoil Dela state mellan komponenter
+- Recoil useRecoilState m.fl.
+- Exempel: Todo-listan i Recoil
+- RecoilRoot 
 - En enkel store
 - Övning - Token store
 - XSS (Cross-site Scripting)
