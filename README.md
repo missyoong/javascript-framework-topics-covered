@@ -207,7 +207,7 @@ Länkar:
 - https://chakra-ui.com/guides/getting-started/cra-guide
 
 ## Vecka 7
-https://github.com/cme-osuka/javascript-ramverk/tree/main/week-8/21-mar
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-8
 ### Föreläsning 19
 - Redux 
 
