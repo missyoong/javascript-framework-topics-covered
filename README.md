@@ -205,3 +205,11 @@ Länkar:
 - https://mui.com/getting-started/installation/
 - https://reactcommunity.org/react-transition-group/
 - https://chakra-ui.com/guides/getting-started/cra-guide
+
+## Vecka 7
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-8/21-mar
+### Föreläsning 19
+- Redux 
+
+### Föreläsning 20
+- Exempel/Code along hur man löser kunskapskontroll 3
