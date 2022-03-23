@@ -6,7 +6,7 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-1
 - Vad är ett javascript ramverk?
 #### React 
 - Vad är React?
-– Komponenter
+- Komponenter
 - Skapa komponenter
 - Klasskomponenter
 - createElement
