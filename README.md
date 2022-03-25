@@ -212,4 +212,8 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-8
 - Redux 
 
 ### Föreläsning 20
-- Exempel/Code along hur man löser kunskapskontroll 3
+- Exempel/Code along hur man löser kunskapskontroll 3 -> https://github.com/cme-osuka/k3-example
+
+### Föreäsning 21
+- Genomgång kunskapskontroll 4
+- Portals
