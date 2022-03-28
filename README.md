@@ -217,3 +217,9 @@ https://github.com/cme-osuka/javascript-ramverk/tree/main/week-8
 ### Föreäsning 21
 - Genomgång kunskapskontroll 4
 - Portals
+
+## Vecka 8
+https://github.com/cme-osuka/javascript-ramverk/tree/main/week-9
+### Föreläsning 22
+- Ramverk: Nextjs https://github.com/cme-osuka/javascript-ramverk/blob/main/week-9/28-mar/nextjs.md
+
